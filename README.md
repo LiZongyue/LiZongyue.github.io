@@ -4,9 +4,9 @@
 
 #### - [BMW](https://www.bmw.de/de/home.html)
 
-我在宝马总共面试了两次：
+我在宝马总共面试了N次：
 
-[Computer vision in the field of Domian Transfer](#computer-vision-in-the-field-of-domain-transfer) 以及 [Natural Language Processing in Neural Machine Translation](#natural-language-processing-in-neural-machine-translation)
+[Computer vision in the field of Domian Transfer](#computer-vision-in-the-field-of-domain-transfer)， [Natural Language Processing in Neural Machine Translation](#natural-language-processing-in-neural-machine-translation)
 
 ##### Computer Vision in the field of Domain Transfer  
 面试官是PhD student，在宝马工作五年，软件开发员，该面试分为两轮。  
@@ -23,6 +23,15 @@
 - 第一轮：电话面试，问了问个人情况，以及对一些前端相关知识的掌握。
 
 - 第二轮：onsite，BMW IT Center。考察内容不是简历，不是technical skill，更侧重于social behavior以及critical thinking。这点必须承认，没有准备过该类型的面试，回答的十分不充分。开放性问题考察反应能力，如果从来没有思考过类似问题，也不注重critical thinking的培养，十分吃亏。也问了一些最基本的数据处理以及机器学习问题，但是boss更喜欢问你会不会xx。
+
+##### Data Analysis
+
+面试官有两位，一位是项目主管，另一位是ETH的学生，实习半年。这次面试分为两轮。
+
+- 第一轮：Skype邀请。问了问个人情况，比较有趣的问题是如何像三岁妹妹解释线性回归和支持向量机模型。
+
+- 第二轮：onsite，BMW FrankfurtRing Werk附近。考察内容比较宽泛但是没什么难度，作为Project Manager，问了问我比较prefer paper reading还是coding，我回答而这部应该分开，如果非要选，我选coding；考察了德语能力。专业相关问题问的非常简单，毕竟是DA岗位，问了问PCA的降维选轴，如何预处理数据（Pipeline）已经correlation matrix的一些不是很细的内容。比较了一下L1和L2正则化，就结束了。聊了聊简历的个人项目，感觉对方水平不够吃透我简历的东西（术业有专攻，非装逼）。结果比较理想。
+
 
 #### -[Intel](https://www.intel.com/content/www/us/en/homepage.html)
 
