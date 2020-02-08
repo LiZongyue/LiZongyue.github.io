@@ -6,7 +6,7 @@
 
 我在宝马总共面试了N次：
 
-[Computer vision in the field of Domian Transfer](#computer-vision-in-the-field-of-domain-transfer)， [Natural Language Processing in Neural Machine Translation](#natural-language-processing-in-neural-machine-translation)
+[Computer vision in the field of Domian Transfer](#computer-vision-in-the-field-of-domain-transfer)， [Natural Language Processing in Neural Machine Translation](#natural-language-processing-in-neural-machine-translation)以及[Data Analysis](#data-analysis)
 
 ##### Computer Vision in the field of Domain Transfer  
 面试官是PhD student，在宝马工作五年，软件开发员，该面试分为两轮。  
