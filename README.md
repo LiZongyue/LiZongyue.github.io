@@ -2,6 +2,10 @@
 
 ### 实习面经
 
+#### -[BNP Paribas](https://www.bnpparibas.de/en/)
+我在BNP前后总共经历了十四个月，前前后后收获很多，遗憾很大。
+面试官是senior Data Scientist, 三道题，求积分，求神经网络参数和设计神经网络。
+
 #### - [BMW](https://www.bmw.de/de/home.html)
 
 我在宝马总共面试了N次：
@@ -15,6 +19,7 @@
 - 第二轮：被邀请onsite。面试不拖泥带水，面试官介绍完自己的项目之后，大概询问了一下上次没问完的简历部分，开始白板coding。侧重于对神经网络训练过程的理解以及python的熟练程度测试。
 
 这次面试经历令我深有感触。第一就是对于基础的考察。 一些问题非常简单也被随机的考察到，而且是必须掌握的知识点。第二是对于technical skill的考察，如果某项技能在该项工作特别重要，会被深入考察，而且并非表示自己愿意学习就可以。例如python，对于最基本的编程逻辑并不会考察，考察的是实际应用，比如列表、字典的打包与解包，匿名函数，并行计算函数，以及functools包。警示就是，还需要继续深究python语言，比如python的__call__等类内置方法以及collections。多看代码，多写代码。
+- 后记：这个面试官是个臭傻逼，面试我学姐的时候性骚扰了学姐。
 
 ##### Natural Language Processing in Neural Machine Translation
 
