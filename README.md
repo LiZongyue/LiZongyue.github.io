@@ -47,7 +47,7 @@
 
 总结来讲，这次面试我表现尚可。但是talk is cheap，没有code什么都是白费，我觉得是比较失败的面试，可能更加注重基础，注重有没有学过。
 
-#### 某保密小公司
+#### [Franka Emika](https://www.franka.de/cn/)
 
 ##### referral
 
