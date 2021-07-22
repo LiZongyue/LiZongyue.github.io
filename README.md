@@ -4,7 +4,8 @@
 
 #### -[BNP Paribas](https://www.bnpparibas.de/en/)
 我在BNP前后总共经历了十四个月，前前后后收获很多，遗憾很大。
-面试官是senior Data Scientist, 三道题，求积分，求神经网络参数和设计神经网络。
+面试官是senior Data Scientist
+- 面试只有一轮，总共三道题，求积分，求神经网络参数和设计神经网络。
 
 #### - [BMW](https://www.bmw.de/de/home.html)
 
